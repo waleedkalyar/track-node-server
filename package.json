@@ -1,0 +1,15 @@
+{
+  "name": "node-tcp",
+  "version": "1.0.0",
+  "description": "node server with tcp client/server architecther.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/net/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "waleed kalyar",
+  "license": "ISC",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}
